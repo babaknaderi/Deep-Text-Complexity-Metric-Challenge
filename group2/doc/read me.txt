@@ -1,0 +1,4 @@
+our first model was the LSTM model which uses the word count feature but we did not get a good result with this model
+we tried Bert model and then on top LSTM model but also no result 
+then we decided to present the last model using only bert.
+I uploaded all the models in the folder code and the finale model in the folder model.

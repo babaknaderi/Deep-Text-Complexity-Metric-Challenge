@@ -1,0 +1,6 @@
+pandas 
+tensorflow
+tensorflow_text
+tf-models-official
+tensorflow_hub
+matplotlib.pyplot
